@@ -63,10 +63,10 @@ Contact Info: [gus-uktena](https://github.com/gus-uktena)
 
 "Hello, I've just made some tokens for Band of Blades, which I would like to share with everyone. It includes a blank token so people can create their own variations. Thanks!"
 
+### Change of ownership and new token frames from volfied
+
+Many thanks to Jay Colson for creating this module. In his absence, I have assumed direction of the project. I have also added some token frames of my own.
+
 ## Feel free to send pull requests for additional token frame content
 
 If you have your own token frames that you would like to share with the Foundry community, please open a pull request here or open an [Issue](https://github.com/jcolson/token_frames/issues) and I'll do my best to incorporate your content in the next release.
-
-## Other modules
-
-[foundryvtt_cards](https://github.com/jcolson/foundryvtt_cards) is a module that adds three new Foundry V9 card decks for import from a compendium.
