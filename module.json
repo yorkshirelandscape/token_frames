@@ -1,5 +1,5 @@
 {
-    "name": "token-frames",
+    "id": "token-frames",
     "title": "Token Frames",
     "description": "Token Frames FoundryVTT",
     "author": "Jay Colson and volfied",
@@ -13,7 +13,11 @@
     ],
     "version": "1.5.0",
     "minimumCoreVersion": "9.238",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "10.291",
+	"compatibility": {
+		"minimum": 9.238,
+		"verified": "10.291"
+	}
     "manifestPlusVersion": "1.2.0",
     "library": false,
     "packs": [
