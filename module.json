@@ -20,7 +20,7 @@
     "compatibility": {
 		"minimum": 10,
 		"verified": "10.291"
-	}
+	},
     "manifestPlusVersion": "1.2.0",
     "library": false,
     "packs": [
