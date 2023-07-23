@@ -1,5 +1,13 @@
 # Token Frames Changelog
 
+## [1.6.0](https://github.com/yorkshirelandscape/token_frames/tree/1.6.0)
+
+[Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.5.2...1.6.0)
+
+## [1.5.2](https://github.com/yorkshirelandscape/token_frames/tree/1.5.2)
+
+[Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.5.1...1.5.2)
+
 ## [1.5.1](https://github.com/yorkshirelandscape/token_frames/tree/1.5.1)
 
 [Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.5.0...1.5.1)
