@@ -16,10 +16,10 @@
             "discord": "blackntan#0069"
         }
     ],
-    "version": "1.5.0",
+    "version": "1.5.2",
     "compatibility": {
 		"minimum": 10,
-		"verified": "10.291"
+		"verified": "11.305"
 	},
     "manifestPlusVersion": "1.2.0",
     "library": false,
