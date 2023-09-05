@@ -63,6 +63,10 @@ Contact Info: [gus-uktena](https://github.com/gus-uktena)
 
 "Hello, I've just made some tokens for Band of Blades, which I would like to share with everyone. It includes a blank token so people can create their own variations. Thanks!"
 
+### Sourced from Geekswordsman
+
+Geekswordsman has graciously agreed to include some of his creations in the module. He can usually be found on the Foundry VTT discord server if you need to get in touch with him.
+
 ### Change of ownership and new token frames from volfied
 
 Many thanks to Jay Colson for creating this module. In his absence, I have assumed direction of the project. I have also added some token frames of my own.
