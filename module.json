@@ -7,7 +7,7 @@
             "name": "volfied",
             "email": "andrew.bryce.howard@gmail.com",
             "url": "https://www.volfied.net",
-            "discord": "volfied#8122"
+            "discord": "volfied"
         },
         {
             "name": "Jay Colson",
@@ -16,21 +16,12 @@
             "discord": "blackntan#0069"
         }
     ],
-    "version": "1.6.3",
+    "version": "1.6.4",
     "compatibility": {
 		"minimum": 10,
-		"verified": "11.305"
+		"verified": "12"
 	},
-    "manifestPlusVersion": "1.2.0",
     "library": false,
-    "packs": [
-        {
-            "name": "token-frames",
-            "label": "TokenFrames",
-            "path": "packs/TokenFrames.db",
-            "type": "JournalEntry"
-        }
-    ],
     "manifest": "https://github.com/yorkshirelandscape/token_frames/releases/latest/download/module.json",
     "url": "https://github.com/yorkshirelandscape/token_frames",
     "download": "https://github.com/yorkshirelandscape/token_frames/releases/latest/download/TokenFrames.zip",
