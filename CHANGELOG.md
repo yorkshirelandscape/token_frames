@@ -1,5 +1,11 @@
 # Token Frames Changelog
 
+## [1.8.0](https://github.com/yorkshirelandscape/token_frames/tree/1.8.0)
+
+[Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.7.0...1.8.0)
+- Updated compatibility for Foundry v14
+- Normalized `compatibility.minimum` to a string (was a bare number)
+
 ## [1.7.0](https://github.com/yorkshirelandscape/token_frames/tree/1.7.0)
 
 [Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.6.4...1.7.0)
