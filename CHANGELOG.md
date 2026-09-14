@@ -1,5 +1,13 @@
 # Token Frames Changelog
 
+## [1.9.0](https://github.com/yorkshirelandscape/token_frames/tree/1.9.0)
+
+[Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.8.0...1.9.0)
+- Removed AI-generated token frames to comply with Foundry's [AI Content Policy](https://foundryvtt.com/article/ai-policy/)
+- Replaced 5 of volfied's frames with hand-recreated versions
+- Added a new hand-drawn runes frame set from volfied
+- Removed Geekswordsman's frames (AI-assisted)
+
 ## [1.8.0](https://github.com/yorkshirelandscape/token_frames/tree/1.8.0)
 
 [Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.7.0...1.8.0)
