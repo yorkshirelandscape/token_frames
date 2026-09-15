@@ -4,8 +4,7 @@
 
 [Full Changelog](https://github.com/yorkshirelandscape/token_frames/compare/1.8.0...1.9.0)
 - Brought the module into compliance with Foundry's [AI Content Policy](https://foundryvtt.com/article/ai-policy/): removed a number of frames, and replaced some with hand-drawn versions
-- Added a hand-drawn runes frame set from volfied, with a 13th (teal/blue) variant
-- Trimmed a couple of low-quality Drehatlas frames
+- Added a new runes frame set from volfied
 
 ## [1.8.0](https://github.com/yorkshirelandscape/token_frames/tree/1.8.0)
 
